@@ -1,11 +1,11 @@
 ########################## hero area ##########################
 hero:
-  title: "I'm Burton Guster"
+  title: "I'm BUAA TYZ"
 
   # animated text loop
   occupations:
-    - 'Web Developer'
-    - 'Pharmaceutical Salesman'
+    - 'BackEnd Developer'
+    - 'Database Lover'
     - 'Private Detective'
 
   # hero background image
@@ -30,20 +30,10 @@ experience:
   enable: true
   title: 'EXPERIENCE'
   experience_list:
-    - name: Web Developer
-      company: Freelance
-      duration: '2020-Current'
-      content: I make websites.
-
-    - name: Private Detective
-      company: Psych
-      duration: '2019-2020'
-      content: Okay. This is hard to explain but I’m going to give it a shot. You and I are opening our own private detective agency.
-
-    - name: Pharmaceutical Salesman
-      company: South Coast Pharmaceuticals
-      duration: '2012-2018'
-      content: We are not bounty hunters, Shawn. I am a pharmaceutical salesman. And Lassiter made it very clear! He said in no uncertain terms. These are certain terms, Shawn! Certain terms!
+    - name: Software Developer
+      company: Huawei
+      duration: '2023.07-2023.09'
+      content: Responsible for writing interfaces between C++ and Rust.
 
 ############################### Skill #################################
 skill:
@@ -51,17 +41,14 @@ skill:
   title: 'SOME SKILLS'
   showpercent: false
   skill_list:
-    - name: 'React'
-      percentage: '85%'
+    - name: 'C++'
+      percentage: '95%'
 
-    - name: 'Detecting'
-      percentage: '93%'
-
-    - name: 'Selling'
-      percentage: '25%'
-
-    - name: 'Yelling'
-      percentage: '100%'
+    - name: 'Database'
+      percentage: '70%'
+      
+    - name: 'Rust'
+      percentage: '80%'
 
 ######################### funfacts #############################3
 funfacts:
@@ -87,13 +74,4 @@ portfolio:
     - name: Hugo
       image: 'images/portfolio/hugo.png'
       url: https://gohugo.io
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
-
-    - name: Hugo Themes
-      image: 'images/portfolio/hugothemes.png'
-      url: https://gohugo.io
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
-
-    - name: Just A Design
-      image: 'images/portfolio/design.png'
       description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
